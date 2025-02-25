@@ -14,6 +14,6 @@ int main(){
     printf("Nome da cidade: %s\nNúmero de habitantes: %2.f Milhões de habitantes\n", cidade, populacao);
     printf("Área da Cidade: %2.f km²\nPIB: %2.f bilhões de reais\n", area, pib);
     printf("Número de Pontos Turísticos: %d\n", turi);
-    printf("Densidade: %.3f hab/Km²\nCapital %2.f de reais\n", densidade, capital);
+    printf("Densidade: %.3f hab/Km²\nCapital %.2f de reais\n", densidade, capital);
 
 }
